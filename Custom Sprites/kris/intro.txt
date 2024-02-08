@@ -1,1 +1,2 @@
-* (You awaken in a strange land.^1)&  (This will be^1. Very^1. Very^1. &Interesting.)/%
+* (A strange land is before you&  once again.^1)//
+* (You are filled with a certain&  power.)/%
